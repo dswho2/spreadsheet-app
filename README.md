@@ -1,2 +1,2 @@
 # spreadsheet-app
-spreadsheet project with pandas for data manipulation, postgresql, and aws hosting
+a spreadsheet project using React for the frontend, Flask for the backend API, Pandas for in-memory data manipulation, PostgreSQL for persisting spreadsheet data, SQLAlchemy for ORM, and boto3 for AWS integration. The tech stack includes Tailwind CSS for styling, Vercel for hosting the frontend, AWS services (RDS, S3, Elastic Beanstalk, API Gateway) for cloud infrastructure, and tools like MessagePack/Protobuf for data serialization, Redis (optional) for caching, and Gunicorn for backend deployment. The project is designed to handle spreadsheets efficiently and integrate with AWS for file storage and deployment.
