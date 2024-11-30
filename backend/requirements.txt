@@ -1,0 +1,4 @@
+Flask==2.2.2
+SQLAlchemy==2.0.10
+psycopg2-binary==2.9.5
+boto3==1.24.15
